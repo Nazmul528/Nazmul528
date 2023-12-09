@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main()
+{
+    int n;
+    printf("decimal number :");
+    scanf("%d",&n);
+    printf("octal number      :%o\n",n);
+    printf("hexdesimal number :%x\n",n);
+}
